@@ -3,3 +3,4 @@
  - [Stats Preview Card](https://github.com/amitkafle/FEM-Stats-Preview-Card-Component)
  - [Time Tracking Dashboard](https://github.com/amitkafle/FEM-Time-Tracking-Dashboard)
  - [Calculator App](https://github.com/amitkafle/FEM-Calculator)
+ - [Rock, Paper, Scissor game](https://github.com/amitkafle/FEM-Rock-Paper-Scissor)

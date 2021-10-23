@@ -5,3 +5,4 @@
  - [Calculator App](https://github.com/amitkafle/FEM-Calculator)
  - [Rock, Paper, Scissor game](https://github.com/amitkafle/FEM-Rock-Paper-Scissor)
  - [3 Column Preview Card Component](https://github.com/amitkafle/FEM-3-Column-Preview-Card)
+ - [Profile Card Component](https://github.com/amitkafle/FEM-Profile-Card)

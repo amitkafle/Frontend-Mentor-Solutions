@@ -7,3 +7,5 @@
  - [3 Column Preview Card Component](https://github.com/amitkafle/FEM-3-Column-Preview-Card)
  - [Profile Card Component](https://github.com/amitkafle/FEM-Profile-Card)
  - [FAQ Accordion Card](https://github.com/amitkafle/FEM-FAQ-Accordion-Card)
+ - [Article Preview Component](https://github.com/amitkafle/FEM-Article-Preview-Component)
+ - [Social Proof Section](https://github.com/amitkafle/FEM-Social-Proof-Section)
